@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url("https://media.istockphoto.com/photos/blue-sky-background-and-white-clouds-soft-focus-and-copy-space-picture-id1128410927?b=1&k=20&m=1128410927&s=170667a&w=0&h=gbsNCVwtjTIr5QnnFk131b6Cp3KGme3P4xP0qgjQNIg=");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(164, 234, 255); 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
